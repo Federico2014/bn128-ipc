@@ -62,7 +62,3 @@ client.close();
 | Thread pool | CPU cores |
 | Queue size | 1000 |
 | Buffer size | 4KB |
-
-## Notes
-
-The BN128 cryptographic operations are stub implementations returning dummy data.
